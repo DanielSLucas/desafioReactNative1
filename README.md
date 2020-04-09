@@ -5,7 +5,7 @@ Primeiro Desafio de React Native no curso GoStack.
 ## Objetivo
 
 Agora você deve continuar desenvolvendo a aplicação que irá armazenar repositórios do seu portfólio, que você já desenvolveu o backend utilizando o Node.js, e no último desafio em ReactJS. 
-(https://github.com/DanielSLucas/desafioNode1 | https://github.com/DanielSLucas/desafioReact1)
+(https://github.com/DanielSLucas/desafioNode1; https://github.com/DanielSLucas/desafioReact1)
 
 ## Funcionalidades da aplicação
 
